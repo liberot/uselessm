@@ -82,4 +82,5 @@ time.sleep(5);
 # enters [ENTER]
 postKeycodeE(52);
 
-exit();
+# metrolupus be gone
+sys.exit(1);
